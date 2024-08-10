@@ -1,0 +1,55 @@
+.js4,
+.edit1 {
+  display : grid;
+  grid-template-columns: 1fr 1fr 1fr ;
+  margin-left: 140px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 70px;
+}
+.edit1 {
+  margin-bottom: 100px;
+}
+
+#js1,
+#js2 {
+  padding: 15px;
+  width: 250px;
+  font-size: 18px;
+  background-color: #eee;
+}
+
+#js8 {
+  width:200px;
+  padding: 20px;
+  font-size:18px;
+  background-color: darkgreen;
+  color: white;
+  border: none;
+}
+
+.js4 div {
+  margin-bottom: 50px;
+  font-size: 25px;
+}
+
+#del {
+  padding: 20px;
+  width: 190px;
+  font-size: 17px;
+  margin-top: -10px;
+  background-color: darkred;
+  color: white;
+  cursor: pointer;
+}
+.js4 {
+  align-content: center;
+  justify-content: center;
+  
+}
+* {
+  background-color: #ddd;
+}
